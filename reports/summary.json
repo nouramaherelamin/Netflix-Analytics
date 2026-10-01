@@ -1,0 +1,9 @@
+{
+  "rows": 8807,
+  "columns": 12,
+  "movies": 6131,
+  "tv_shows": 2676,
+  "date_min": "2008-01-01",
+  "date_max": "2021-09-25",
+  "missing_cells": 4307
+}
